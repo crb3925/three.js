@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="HelloCube" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Emerson2020/HelloCube" useBuiltInWebServerPort="true">
+  <configuration default="false" name="HelloCube" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:8080/Emerson2020/HelloCube" useBuiltInWebServerPort="true">
     <method v="2" />
   </configuration>
 </component>
